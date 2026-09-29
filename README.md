@@ -15,8 +15,9 @@ mindset and communicate findings clearly.
 ## Education and certifications
 
 - Bachelor of Science, Cybersecurity and Information Assurance — Western Governors University
+- Bachelor of Science, Criminology — University of La Verne
 - ISC2 Systems Security Certified Practitioner (SSCP)
-- CompTIA CySA+, Security+, Network+, A+, Data+, and Project+
+- CompTIA CySA+, PenTest+, Security+, Network+, A+, Data+, and Project+
 - ITIL 4 Foundation
 - Linux Essentials
 
@@ -27,4 +28,3 @@ mindset and communicate findings clearly.
 - Digital forensics and endpoint analysis
 - Python security automation
 - Application and AI security
-
